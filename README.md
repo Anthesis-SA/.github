@@ -1,4 +1,4 @@
-# Anthesis-SA 
+# .github 
 
 Welcome to the Anthesis-SA GitHub page. 
 
